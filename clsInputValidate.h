@@ -112,6 +112,7 @@ public:
 		}
 		return Number;
 	}
+
 	static double ReadDblNumber(string ErrorMessage = "Invalid Number, Enter again\n")
 	{
 		double Number;
